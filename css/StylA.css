@@ -1,0 +1,19 @@
+header{
+  color:white;
+  padding:20px;
+  text-align: center;
+
+}
+body{
+   background-image: url(https://conocedores.com/wp-content/uploads/2019/10/finlandia-aurora-boreal-15102019in1.jpg);
+}
+button{
+  background-color: hotpink;
+  border-style: none;
+  margin: 10px auto;
+  padding: 10px;
+}
+h2{
+  background-color: hotpink;
+  color: Black;
+}
